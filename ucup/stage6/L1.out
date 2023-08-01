@@ -1,0 +1,82 @@
+INC
+BEGIN
+  DEC
+  NEXT
+  BEGIN
+    DEC
+  END
+  PREV
+  BEGIN
+    DEC
+    NEXT
+    INC
+    PREV
+  END
+  IN
+  INC
+END
+NEXT
+INC
+BEGIN
+  DEC
+  PREV
+  INC
+  NEXT
+  BEGIN
+    DEC
+    PREV
+    DEC
+    NEXT
+    BEGIN
+      DEC
+      PREV
+      INC
+      NEXT
+      BEGIN
+        DEC
+        PREV
+        DEC
+        NEXT
+        BEGIN
+          DEC
+          PREV
+          INC
+          NEXT
+          BEGIN
+            DEC
+            PREV
+            DEC
+            NEXT
+            BEGIN
+              DEC
+              PREV
+              INC
+              NEXT
+              BEGIN
+                DEC
+                PREV
+                DEC
+                NEXT
+                BEGIN
+                  DEC
+                  PREV
+                  INC
+                  NEXT
+                  BEGIN
+                    DEC
+                    PREV
+                    DEC
+                    NEXT
+                  END
+                END
+              END
+            END
+          END
+        END
+      END
+    END
+  END
+END
+PREV
+OUT
+STOP
